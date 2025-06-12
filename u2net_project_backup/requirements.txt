@@ -1,5 +1,5 @@
 numpy>=1.21,<1.26
-scikit-image==0.14.0
+scikit-image>=0.19.3,<0.21
 torch
 torchvision
 pillow==8.1.1
